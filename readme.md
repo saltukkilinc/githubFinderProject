@@ -1,7 +1,6 @@
 # gitHub Finder Project  
 ---
-In this project, we can search an username and if username has an github account, 
-we can access user's some info that we decided before with the codes on the screen.
+In this project, we can search for a username and if the username has a GitHub account, we can access the user's info that we decided on before with the codes on the screen.
 
 ---
 
